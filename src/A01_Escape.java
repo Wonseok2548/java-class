@@ -32,7 +32,7 @@ public class A01_Escape {
 		
 		// Ctrl + / : 드래그 한 상태에서 해당범위 전체 주석처리
 		
-		// sysout 적은 뒤 Ctrl + Space : 자동완성.
+		// sysout 적은 뒤 Ctrl + Space : 자동완성
 		System.out.println();
 		
 		
